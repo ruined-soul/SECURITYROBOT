@@ -15,7 +15,7 @@
   <img src="https://telegra.ph/file/7e61fe06a9c02747249c4.jpg">
 </p>
 
-# YoneRobot
+# SECURITY ROBOT
 Me On Telegram [✨SECURITY✨](https://t.me/SECURITY_ROBOT)
 
 ## How To Host
