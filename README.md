@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7e61fe06a9c02747249c4.jpg">
+  <img src="https://telegra.ph/file/8e3ee224793149ea38e82.jpg">
 </p>
 
 # SECURITY ROBOT
