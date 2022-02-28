@@ -6,7 +6,7 @@ from contextlib import suppress
 from functools import partial
 
 import Security
-import Securuty.Database.welcome_sql as sql
+import Security.Database.welcome_sql as sql
 import Security.Database.global_bans_sql as gban_sql
 from Security import (
     REQUESTER, DEV_USERS, INSPECTOR, JOIN_LOGGER, LOGGER,
