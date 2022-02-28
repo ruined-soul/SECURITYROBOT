@@ -29,17 +29,17 @@
     "TOKEN": {
        "description": "Your bot token. Get one from @BotFather duh",
        "required": true,
-       "value": ""
+       "value": "5184784640:AAGsS_vNU9y4CB8fR_ogA1daf_y_7RyK5ts"
     },
     "API_ID": {
        "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
        "required": true,
-       "value": ""
+       "value": "2634874"
     },
     "API_HASH": {
        "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
        "required": true,
-       "value": ""
+       "value": "a418fd5c4497ca9986f31c314da6f170"
     },    
     "SQLALCHEMY_DATABASE_URI": {
        "description": "Your postgres sql db, empty this field if you dont have one.",
@@ -49,42 +49,42 @@
     "OWNER_ID": {
        "description": "Your user ID as an integer.",
        "required": true,
-       "value": ""
+       "value": "5038173179"
     },
 
     "BOT_NAME": {
        "description": "Insert below your bot, it will appear everywhere",
        "required": true,
-       "value": ""
+       "value": "SECURITY"
     },
     "OWNER_USERNAME": {
        "description": "Your username without the @",
-       "value": ""
+       "value": "@SUKHPAL_KHERERA"
     },
     "SUPPORT_CHAT": {
-       "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
+       "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Mamba support than consider you made an enemy.",
        "required": true,
-       "value": ""
+       "value": "@MAMBA_X_SUPPORT"
     },      
     "PHOTO": {
        "description": "Your Telegram Bot Image (Add Link Only).",
        "required": true,
-       "value": ""
+       "value": "https://telegra.ph/file/8e3ee224793149ea38e82.jpg"
     },      
     "DEV_USERS": {
-       "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
+       "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Mamba support then keep the current ID's here at they are and add yours.",
        "required": false,
-       "value": ""
+       "value": "5222186306"
     },
     "INSPECTOR": {
        "description": "A space separated list of user IDs who you want to assign as inspector users.",
        "required": false,
-       "value": ""
+       "value": "5222186306"
     },
     "REQUESTER": {
        "description": "A space separated list of user IDs who you wanna assign as requester(gban perms only).",
        "required": false,
-       "value": ""
+       "value": "5222186306"
     },
     "ENV": {
        "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
