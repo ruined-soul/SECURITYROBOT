@@ -11,7 +11,7 @@ from Security.Handlers.validation import (
     user_admin,
     user_admin_no_reply,
 )
-from Secuity.Plugins.Admin.log_channel import loggable
+from Security.Plugins.Admin.log_channel import loggable
 from Security.Database import antiflood_sql as sql
 from telegram.error import BadRequest
 from telegram.ext import (
