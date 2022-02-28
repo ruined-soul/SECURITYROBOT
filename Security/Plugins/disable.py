@@ -3,7 +3,7 @@ from typing import Union
 
 from future.utils import string_types
 from Security import dispatcher
-from Security.Handlers.managers import CMD_STARTERS, SpamChecker
+from Security.Handlers.manager import CMD_STARTERS, SpamChecker
 from Security.Handlers.misc import is_module_loaded
 from telegram import ParseMode, Update
 from telegram.ext import (
