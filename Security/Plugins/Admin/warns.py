@@ -4,7 +4,7 @@ from typing import Optional
 
 import telegram
 from Security import INSPECTOR, REQUESTER, dispatcher
-from SecuritySecurity.Plugins.disable import DisableAbleCommandHandler
+from Security.Plugins.disable import DisableAbleCommandHandler
 from Security.Handlers.validation import (
     bot_admin,
     can_restrict,
