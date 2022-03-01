@@ -2,7 +2,7 @@ import html
 import random
 import time
 from Security.Database.approve_sql import is_approved
-import Security.Plugins.Tools.fun_strings as fun_strings
+from Security.Plugins.Tools import fun_strings
 from Security import dispatcher
 from Security.Plugins.disable import DisableAbleCommandHandler
 from Security.Handlers.validation import is_user_admin
